@@ -1,1 +1,1 @@
-# Awesome Azure 101 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)] [![Made with Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)]
+# Awesome Azure 101 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![Made with Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)
